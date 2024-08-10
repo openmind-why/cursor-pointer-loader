@@ -1,6 +1,6 @@
 {
   "name": "cursor-pointer-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个通过html标签属性快速添加指针移入效果的webpack加载器（A loader that quickly adds cursor pointer effects via html tag attributes）",
   "main": "index.js",
   "scripts": {
