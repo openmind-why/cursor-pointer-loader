@@ -1,0 +1,27 @@
+# 源码目录
+src/
+
+# 开发配置文件
+rollup.config.js
+.gitignore
+
+# 开发依赖
+node_modules/
+package-lock.json
+
+# 测试文件
+test/
+tests/
+*.test.js
+*.spec.js
+
+# 其他开发文件
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Git相关
+.git/
+.github/
